@@ -1,4 +1,7 @@
 /* Basic Style */
+.title {
+  display: none;
+}
 .app {
   background-color: #f8f8f8;
   color: #333;
